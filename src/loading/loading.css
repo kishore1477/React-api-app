@@ -1,0 +1,3 @@
+
+.flower-12l-48x48 { animation: flower-12l-48x48 1s steps(12) infinite; display: block; width: 48px; height: 48px; background-image:url(loading.png); }
+@keyframes flower-12l-48x48 { from { background-position: 0px 0px; } to { background-position: 0px -576px; } }
